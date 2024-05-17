@@ -4,7 +4,7 @@
 #include<string.h>
 #include<dirent.h>
 #include<sys/types.h>
-#include<sys/stat.h>    //File Details
+#include<sys/stat.h>   
 
 void listAllFiles(char *);
 void searchForFile(char *, char *);
