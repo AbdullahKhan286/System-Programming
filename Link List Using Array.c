@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 using namespace std;
-/////////////////////////////////////////////
+//////////////////////////////////////////////
 /*initialization of global variables and dynamic array */
 int ts=0;
 int *list=new int[ts];
