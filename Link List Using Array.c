@@ -10,7 +10,7 @@ int *list=new int[ts];
 int cs=0;                       //shows that current size of list is zero
 int cl=-1;                      //shows that list is not created yet
 
-///////////////////////////////////////////
+////////////////////////////////////////////
 /*declaration of functions */
 /*00*/void menu();
 /*01*/void create_list();
