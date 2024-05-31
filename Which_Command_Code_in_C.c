@@ -4,7 +4,7 @@
 #include<string.h>
 #include<dirent.h>
 
-
+int doesCommandExistInDir(char *, char *);
 
 int main(int argc, char *argv[]) {
     // ------------ Get environmet variable "PATH"
